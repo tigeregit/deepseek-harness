@@ -1,0 +1,1 @@
+PASS: 20 Markdown files, 205 local links, 5 Mermaid diagrams, and trailing newlines

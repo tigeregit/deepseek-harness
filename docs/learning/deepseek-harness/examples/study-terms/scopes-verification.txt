@@ -1,0 +1,1 @@
+PASS: nearest scope shadows ancestors, sibling remains global, and disposal restores inherited visibility

@@ -1,0 +1,8 @@
+PASS: real registry returns the canonical object for a known term
+PASS: an absent term is a successful domain outcome
+PASS: type validation and domain validation reject invalid arguments
+PASS: pre-aborted execution skips the tool dispatch
+PASS: tools/result observes normalized successes and errors
+PASS: unloading the middleware removes its event listener
+PASS: removing the required provider unregisters the dependent tool
+PASS: replacing the provider reactivates the unchanged consumer

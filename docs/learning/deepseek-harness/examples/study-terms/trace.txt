@@ -1,0 +1,16 @@
+0 agent/inbox/spliced
+1 turn/start
+2 agent/inbox/spliced
+3 step/start
+4 system/message
+5 user/message
+6 request/header
+7 request/context
+8 assistant/message
+9 tool/call
+10 tool/result
+11 step/end
+12 step/start
+13 assistant/message
+14 step/end
+15 turn/end
